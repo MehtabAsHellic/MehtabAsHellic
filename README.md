@@ -31,6 +31,17 @@ I'm **Mehtab Khan**, a Computer Engineering student with a passion for **program
 - **Role:** UI Designer and Researcher
 - **Description:** AI chatbot to help individuals recognize their need for therapy and address mental health stigma.
 
+### SEARCH HERE
+- **Role:** Developer
+- **Description:** Developed a web application enabling users to search queries across various platforms. Implemented features allowing users to select their preferred search platform from a dropdown menu.
+- **Skills:** HTML, CSS, Web Development.
+
+### SEARCH HERE
+- **Role:** COLLEGE COMMUNITY APP
+- **Description:** Developed an institute-level application facilitating communication between students and teachers. Implemented features for sharing information, notes, checking attendance, and distributing notices. Integrated functionality for students to communicate with their peers within the application.
+- **Skills:** Mobile App UI, Figma.
+
+
 ## 🌟 Extra-Curricular Activities
 - **Buildspace | S4 Buildspace Graduate**
 - **MindShift EdTech School | Founder**
@@ -53,5 +64,3 @@ Feel free to explore my work, connect with me on [LinkedIn](https://linkedin.com
 ✨ _“Creativity is nothing but a mind set free.”_ – Torrie T. Asai
 
 ---
-
-![Footer Image](https://user-images.githubusercontent.com/MehtabAsHellic/footer.jpg)
