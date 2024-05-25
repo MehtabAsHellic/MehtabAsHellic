@@ -3,7 +3,7 @@
 I'm **Mehtab Khan**, a Computer Engineering student with a passion for **programming**, **UI/UX design**, and **research**. Dive into my repositories to see what I've been working on!
 
 ## 🎓 Education
-**St. John College of Engineering and Management**  
+**University Of Mumbai**  
 *Bachelor of Engineering in Computer Engineering (2021-2025)*
 
 ## 💼 Experience
