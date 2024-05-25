@@ -49,9 +49,9 @@ I'm **Mehtab Khan**, a Computer Engineering student with a passion for **program
 
 ## 🌐 Links
 - **LinkedIn:** [mehtabarkhan](https://linkedin.com/in/mehtabarkhan)
-- **UI Portfolio:** [uibymehtab](https://uibymehtab)
+- **UI Portfolio:** [uibymehtab](https://sites.google.com/view/uibymehtab)
 - **Medium:** [mehtabakhan](https://medium.com/@mehtabakhan)
-- **Photography Portfolio:** [photobymehtab](https://photobymehtab)
+- **Photography Portfolio:** [photobymehtab](https://sites.google.com/view/photobymehtab)
 - **GitHub:** [MehtabAsHellic](https://github.com/MehtabAsHellic)
 
 Feel free to explore my work, connect with me on [LinkedIn](https://linkedin.com/in/mehtabarkhan), or check out my other portfolios. Let's collaborate and create something amazing together! 🌟
