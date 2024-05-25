@@ -1,6 +1,4 @@
-# 👋 Welcome to Mehtab Khan's GitHub!
-
-![Profile Banner](https://user-images.githubusercontent.com/MehtabAsHellic/banner.jpg)
+# 👋 Welcome to Mehtab GitHub!
 
 I'm **Mehtab Khan**, a Computer Engineering student with a passion for **programming**, **UI/UX design**, and **research**. Dive into my repositories to see what I've been working on!
 
