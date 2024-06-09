@@ -6,6 +6,11 @@ I'm **Mehtab Khan**, a Computer Engineering student with a passion for **program
 **University Of Mumbai**  
 *Bachelor of Engineering in Computer Engineering (2021-2025)*
 
+# Badges!
+
+https://gssoc.girlscript.tech/badges/1.png?imwidth=96
+
+
 ## 💼 Experience
 
 | Role                                       | Organization                      | Duration                | Description                                                                                          |
