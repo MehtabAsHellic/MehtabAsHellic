@@ -1,7 +1,7 @@
 # 🧠 Mehtab Khan | Versatile Engineer
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&width=600&lines=AI+Researcher+|+Developer+|+UX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&width=700&lines=Aspiring+AI+Researcher+|+Developer+|+UI/UX+Designer" alt="Typing SVG" />
 </div>
 
 ## 🌟 Professional Overview
